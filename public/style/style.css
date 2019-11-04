@@ -1,0 +1,101 @@
+.container{
+    margin: 0;
+}
+
+.custom-container {
+    background-color: white;
+    width: 1600px;
+    height: 700px;
+    margin: 2%;
+    position: relative;
+}
+
+.cu-left-container {
+    width: 800px;
+    min-height: 90%;
+    left: 0px;
+    float: left;
+}
+
+.names{
+    margin: 3% 0 0 3%;
+}
+
+.actor-content{
+    padding: 3% 10% 0 10%;
+    text-align: left;
+}
+
+.movie-list{
+    padding:3%;
+}
+
+.cu-right-container {
+    width: 800px;
+    min-height: 100%;
+    float: left;
+}
+
+.cu-footer {
+    background-color: white;
+    bottom: 0px;
+    height: 10%;
+    width: 70%;
+    position: absolute;
+    border-right: 4px solid #4b8e8d;
+    border-top: 4px solid #4b8e8d;
+    border-bottom: 2px solid #4b8e8d;
+}
+
+.footer{
+    float:right;
+    padding-right: 20px;
+}
+
+.list-inline{
+    width: 600px;
+    margin: 10px 0 0 0;
+}
+
+h3{
+    margin-bottom: 0px;
+    color: #4b8e8d;
+}
+
+.quote-msg{
+    margin: 5% 0% 0% 3%;
+    border-bottom: 2px solid #4b8e8d;
+}
+
+h2{
+    padding: 0;
+    color: #4b8e8d;
+    font-weight: bold;
+}
+
+.ilta{
+    font-style: italic;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.list-inline-item{
+   /* padding: 1%; */
+}
+
+a{
+    color: #396362;
+    text-decoration: none;
+}
+
+a:hover, a:active{
+    color: #4b8e8d;
+    font-size: 110%;
+    font-weight: bold;
+}
+
+a.pages{
+    padding-right: 10px;
+}
