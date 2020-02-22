@@ -17,3 +17,11 @@ Movie list button - is a bootstrap button that expands with the specific actors 
 ![Sylvester](./public/images/NodePugExample.png)
 
 ![Will](./public/images/NodePugExample2.png)
+
+## How to run
+
+1. Clone repo to your local machine.
+2. cd into the repo.
+3. run `npm install` to install all dependencies.
+4. run `npm start` to start the app.
+5. Open web browser and input this url localhost:3000

@@ -1,17 +1,20 @@
 .container{
-    margin: 0;
+    margin: 0px;
+    min-width: 1300px;
+    max-width: 1600px;
+    position: relative;
 }
 
 .custom-container {
     background-color: white;
-    width: 1600px;
-    height: 700px;
+    width: inherit;
+    height: inherit;
     margin: 2%;
-    position: relative;
+    position: absolute;
 }
 
 .cu-left-container {
-    width: 800px;
+    width: 50%;
     min-height: 90%;
     left: 0px;
     float: left;
@@ -31,9 +34,9 @@
 }
 
 .cu-right-container {
-    width: 800px;
+    width: 50%;
     min-height: 100%;
-    float: left;
+    float: right;
 }
 
 .cu-footer {
